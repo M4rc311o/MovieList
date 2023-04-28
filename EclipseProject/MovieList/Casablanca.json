@@ -1,0 +1,17 @@
+{
+  "recommendedAge": 18,
+  "name": "Casablanca",
+  "director": "Emil Zatopil",
+  "year": 1948,
+  "movieType": "ANIMATED",
+  "setOfPeopleNames": [
+    "Petr Pozval",
+    "Josef Klobouk"
+  ],
+  "listOfReviews": [
+    {
+      "rating": 10,
+      "reviewText": "Skvele zpracovani"
+    }
+  ]
+}
